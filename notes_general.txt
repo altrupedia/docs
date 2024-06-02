@@ -1,0 +1,6 @@
+2024-05-08: Call Henrique notes: 
+- functions
+- lightsail 
+- easy c
+- node.js
+- bulma.io 
