@@ -3,7 +3,7 @@ Im glad you found this file. For now, this README serves as main point of entry 
 
 I have a vision for a better future, built on the shoulders of \strikethrough{giants} Y O U .
 
-I'm aware that up to now I have contributed (almost) nothing but a little additional entropy, bringing our universe closer to the point in time and space, when time will have given up on its directedness.
+I'm aware that up to now I have shared (almost) nothing but a little additional entropy, bringing our universe closer to the point in time and space, when time will have given up on its directedness.
 
 At the moment, I'm still waiting for some laywer stuff. But the moment my vision has been somewhat engraved into earthly matter in terms of Ink & 1's and 0's, you will learn my concrete idea. That is, you will have the possiblity to learn.
 
