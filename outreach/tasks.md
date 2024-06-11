@@ -4,6 +4,16 @@ C: Technical
 - C1: write an application, that shows current screenshots of all altrupedia email accounts and post boxes. In collaboration with altrupedias front end architect (not me). 
 - C2: Develop a test framework for all altrupedia code
 
+E: Education
+- E1: Do you want to carry out L1 for your school? Get in contact with me.
+- E2: If there is more than one applicant, we will make a competition
+      and the nicest translation will become the foundation stone of the 
+      altrupedia official german translation.
+      
+L: Language
+- L1: Translate the cpp/constitution/constitution.h into nice flowfull german.
+- L2: Translate constitution.h into every language there is
+ 
 N: No coding skills requiered
 
 - N1: chief of social media (in direct collaboration with me)
