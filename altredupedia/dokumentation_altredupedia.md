@@ -31,3 +31,5 @@ Die **Vernetzung** erfolgt in erster Linie a) unter den SuS, aber auch b) zwisch
 *Offene Fragen:*
 - Jugendschutz
 - „Arbeitsrecht“ von Kindern (auch wenn kein Geld fließt)
+
+*11.06.24: Formulierung Abstract altredupedia, Vita Stephan+Katharina
