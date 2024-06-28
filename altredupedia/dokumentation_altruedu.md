@@ -1,12 +1,12 @@
 *05.06.24: Erste Gedanken Aufbau/Struktur*
 
 *Idee*: 
-altr**edu**pedia besteht aus mehreren Zweigen, die unterschiedliche Interessen im Bereich Bildung abdecken.
+altru**edu** besteht aus mehreren Zweigen, die unterschiedliche Interessen im Bereich Bildung abdecken.
 Bildung soll **vernetzt** und **integrativ** gedacht werden.
 **Integrativ** bedeutet, dass SuS unabhängig ihrer familiären, sozialen und schulischen Voraussetzungen ihren individuellen Teil beitragen können. Das schafft ein Bewusstsein für den Wert der eigenen Stärken und die Wichtigkeit des Miteinanders, was einen positiven Effekt auf die Entwicklung des Selbstkonzepts und die Lernmotivation hat.
 Die **Vernetzung** erfolgt in erster Linie a) unter den SuS, aber auch b) zwischen SuS und „Expert:innen“, c) zwischen SuS und Institutionen und d) zwischen SuS und weiteren Usern von altrupedia.
 
-*Zweige von atr**edu**pedia:*
+*Zweige von atru**edu**:*
  -  Zweig **Nachhilfe**
 	 - klassenstufenübergreifend bieten SuS Nachhilfe in verschiednen Fächern an /a
 	 - erwartbar ist Mehrbedarf in MINT
@@ -32,4 +32,4 @@ Die **Vernetzung** erfolgt in erster Linie a) unter den SuS, aber auch b) zwisch
 - Jugendschutz
 - „Arbeitsrecht“ von Kindern (auch wenn kein Geld fließt)
 
-*11.06.24: Formulierung Abstract altredupedia, Vita Stephan+Katharina
+*11.06.24: Formulierung Abstract altruedu, Vita Stephan+Katharina
