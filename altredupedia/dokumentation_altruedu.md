@@ -33,3 +33,6 @@ Die **Vernetzung** erfolgt in erster Linie a) unter den SuS, aber auch b) zwisch
 - „Arbeitsrecht“ von Kindern (auch wenn kein Geld fließt)
 
 *11.06.24: Formulierung Abstract altruedu, Vita Stephan+Katharina
+*28.06.24: 
+- Änderung Name altruedupedia --> altruedu
+- Mitglieder von altruedu heißen *altruedus*
