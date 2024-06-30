@@ -1,1 +1,0 @@
-moved to altruedu_dokumentation_deutsch.md
