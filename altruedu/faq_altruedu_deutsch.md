@@ -3,7 +3,7 @@
 Du bist unter 18 Jahre alt und Schüler:in? Dann kommt hier die gute Nachricht: Bei altruedu denken wir zuallererst an DICH und DEINE Bedürfnisse. Anders als andere Plattformen ist altruedu nicht eine abgeschwächte „Kinderversion“ der „richtigen“ Erwachsenenversion. Bei altruedu geht alles von den Kindern bzw. Jugendlichen aus - von DIR! DU bist die Zukunft unserer Welt und an DICH lohnt es sich zuerst zu denken. Deshalb bist DU bei allem, was wir entwickeln, der Ausgangspunkt.
 In Zusammenarbeit mit zahlreichen Expert:innen aus dem Bereich Bildung und Erziehung sowie mit hunderten Schüler:innen konnten wir ein Netzwerk schaffen, das genau auf DICH abgestimmt ist.
 Bei altruedu sind deine Stärken gefragt und deine Schwächen willkommen. Hier findest du Gleichgesinnte, mit denen du dich vernetzen kannst.
-Egal ob für Nachhilfe oder für Hobbys. Bei altruedu findest du eine Community aus Gleichgesinnten (= *aunity*), die sich gegenseitig unterstützt und mit Schul- und Lebensfragen weiterhilft.
+Egal ob für Nachhilfe oder für Hobbys. Bei uns findest du eine Community von Altruedus, in der man sich gegenseitig unterstützt und mit Schul- und Lebensfragen weiterhilft.
 Und mit DEINER Hilfe entwickeln wir dieses Netzwerk ständig weiter, damit es auch in Zukunft heißen kann: Bei altruedu denken wir zuallererst an DICH.
 
 **Für wen ist altruedu?**
@@ -32,7 +32,7 @@ Deine Sicherheit ist uns enorm wichtig. Deshalb sammeln wir auch keine persönli
 
 Das sind wir – Stephan und Katharina.
 
-Stephan ist der Gründer und Erfinder des Altruversums. Er ist der kreative Geist und das technische Hirn hinter der Plattform. Stephan hat in Heidelberg Physik studiert. Nach dem Studium hat er zuerst als Backend-Entwickler bei SAP gearbeitet, sich nach zwei Jahren aber dafür entschieden, am CERN zu promovieren. Mittlerweile steht er fast am Ende seiner Promotion und ist fest entschlossen mit dem Altruversum die Welt zu einer besseren zu revolutionieren.
+Stephan ist der Gründer und Erfinder des Altruversums. Er ist der kreative Geist und das technische Hirn hinter der Plattform. Stephan hat in Heidelberg Physik studiert. Nach dem Studium hat er zuerst als Backend-Entwickler bei SAP gearbeitet, sich nach zwei Jahren aber dafür entschieden, am CERN zu promovieren. Mittlerweile steht er fast am Ende seiner Promotion und ist fest entschlossen mit dem Altruversum, eine bessere Parallelwelt zu schaffen.
 
 *Stephans Lebensmotto: Life is like windsurfing.*
 
