@@ -39,7 +39,7 @@ Das sind wir – Stephan und Katharina.
 
 Stephan ist der Gründer und Erfinder des Altruversums. Er ist der kreative Geist und das technische Hirn hinter der Plattform. Stephan hat in Heidelberg Physik studiert. Nach dem Studium hat er zuerst als Backend-Entwickler bei SAP gearbeitet, sich nach zwei Jahren aber dafür entschieden, am CERN zu promovieren. Mittlerweile steht er fast am Ende seiner Promotion und ist fest entschlossen mit dem Altruversum, eine bessere Parallelwelt zu schaffen.
 
-*Stephans Lebensmotto: Life is like windsurfing.*
+*Stephans Lebensmotto: "Life is like windsurfing: No matter from where and how strong the wind blows, you can use it."*
 
 Ich bin Katharina, die schöpferische Muße und der Kopf von altruedu. Eigentlich bin ich Lehrerin für Physik, Deutsch und Astronomie. Durch meinen Beruf habe ich viele Einblicke in die aktuelle Bildungslandschaft und kenne die Herausforderungen und Sorgen von Schüler:innen im Jahr 2024 aus erster Hand.
 Nebenbei arbeite ich als Gastautorin bei Spektrum der Wissenschaft und als Teamleiterin bei der ScienceAcademy BW.
