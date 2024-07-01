@@ -2,6 +2,7 @@
 
 Du bist unter 18 Jahre alt und Schüler:in? Dann kommt hier die gute Nachricht: Bei altruedu denken wir zuallererst an DICH und DEINE Bedürfnisse. Anders als andere Plattformen ist altruedu nicht eine abgeschwächte „Kinderversion“ der „richtigen“ Erwachsenenversion. Bei altruedu geht alles von den Kindern bzw. Jugendlichen aus - von DIR! DU bist die Zukunft unserer Welt und an DICH lohnt es sich zuerst zu denken. Deshalb bist DU bei allem, was wir entwickeln, der Ausgangspunkt.
 <<<<<<< HEAD
+<<<<<<< HEAD
 Gemeinsam wollen wir ein Netzwerk schaffen, das genau auf DICH abgestimmt ist.
 Bei altruedu sind deine Stärken gefragt und deine Schwächen willkommen. Hier findest du Gleichgesinnte, mit denen du dich vernetzen kannst.
 Egal ob für Nachhilfe oder für Hobbys. Bei uns findest du eine Community von Altruedus, in der man sich gegenseitig unterstützt und mit Schul- und Lebensfragen weiterhilft.
@@ -11,6 +12,11 @@ Bei altruedu sind deine Stärken gefragt und deine Schwächen willkommen. Hier f
 Egal ob für Nachhilfe oder für Hobbys. Bei uns findest du eine Community von Altruedus, in der man sich gegenseitig unterstützt und mit Schul- und Lebensfragen weiterhilft.
 Und mit DEINER Hilfe entwickeln wir dieses Netzwerk ständig weiter, damit es auch in Zukunft heißen kann: Bei altruedu denken wir zuallererst an DICH.
 >>>>>>> 4fd8027 (Add faq_altruedu_deutsch.md rename dokumentation)
+=======
+Gemeinsam wollen wir ein Netzwerk schaffen, das genau auf DICH abgestimmt ist.
+Bei altruedu sind deine Stärken gefragt und deine Schwächen willkommen. Hier findest du Gleichgesinnte, mit denen du dich vernetzen kannst.
+Egal ob für Nachhilfe oder für Hobbys. Bei uns findest du eine Community von Altruedus, in der man sich gegenseitig unterstützt und mit Schul- und Lebensfragen weiterhilft.
+>>>>>>> bb172bc (a few edits to altruedu_faq_deutsch.md)
 
 **Für wen ist altruedu?**
 
@@ -27,10 +33,14 @@ Falls du dir aber nicht sicher bist, ob altruedu die richtige Plattform für dic
 -  Ich will mein Wissen und Können mit anderen teilen.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> bb172bc (a few edits to altruedu_faq_deutsch.md)
 -  Ich bin bereit, anderen zu helfen und im Gegenzug Unterstützung von anderen Altruedus zu erhalten
   
 - Ich habe Lust, kleine Aufgaben beim Aufbau von altruedu zu übernehmen.
   
+<<<<<<< HEAD
 Kannst du einige der Fragen mit „ja“ beantworten? Dann bist DU bei altruedu genau richtig. :) 
 
 **Ich finde den altruedu Gedanken gut aber leider fehlt mir Moment die Energie, selbst etwas beizutragen. Ist altruedu auch für mich?** 
@@ -43,6 +53,14 @@ Kannst du einige der Fragen mit „ja“ beantworten? Dann bist DU bei altruedu 
 Kannst du einige der Fragen mit „ja“ beantworten? Dann bist DU bei altruedu genau richtig. :) 
 
 >>>>>>> 4fd8027 (Add faq_altruedu_deutsch.md rename dokumentation)
+=======
+Kannst du einige der Fragen mit „ja“ beantworten? Dann bist DU bei altruedu genau richtig. :) 
+
+**Ich finde den altruedu Gedanken gut aber leider fehlt mir Moment die Energie, selbst etwas beizutragen. Ist altruedu auch für mich?** 
+
+- Natürlich. Keine Sorge, es ist völlig okay, wenn du erstmal nur nimmst. Du kannst später noch geben. Erst Mal sollte dein Ziel sein, dich so zu entwicken, dass du Lust und Energie übrig hast, bei etwas wie altruedu mitzuwirken. Und genau dafür bekommst du von uns Altruedus die Unterstützung, die du brauchst. Bedingungslos. 
+
+>>>>>>> bb172bc (a few edits to altruedu_faq_deutsch.md)
 **Wie kann ich mich bei altruedu anmelden?**
 
 Deine Sicherheit ist uns enorm wichtig. Deshalb sammeln wir auch keine persönlichen Daten von dir und verschlüsseln jede Kommunikation, die auf altruedu stattfindet. Damit wir trotzdem sichergehen können, dass DU es bist, musst du dich zur erstmaligen Registrierung persönlich bei einem unserer Botschafter:innen melden.
