@@ -25,7 +25,7 @@ Falls du dir aber nicht sicher bist, ob altruedu die richtige Plattform für dic
   
 Kannst du einige der Fragen mit „ja“ beantworten? Dann bist DU bei altruedu genau richtig. :) 
 
-**Ich finde den altruedu Gedanken gut aber leider fehlt mir Moment die Energie, selbst etwas beizutragen. Ist altruedu auch für mich?** 
+**Ich finde den altruedu Gedanken gut, aber leider fehlt mir Moment die Energie, selbst etwas beizutragen. Ist altruedu auch für mich?** 
 
 - Natürlich. Keine Sorge, es ist völlig okay, wenn du erstmal nur nimmst. Du kannst später noch geben. Erst Mal sollte dein Ziel sein, dich so zu entwicken, dass du Lust und Energie übrig hast, bei etwas wie altruedu mitzuwirken. Und genau dafür bekommst du von uns Altruedus die Unterstützung, die du brauchst. Bedingungslos. 
 
@@ -37,7 +37,7 @@ Deine Sicherheit ist uns enorm wichtig. Deshalb sammeln wir auch keine persönli
 
 Das sind wir – Stephan und Katharina.
 
-Stephan ist der Gründer und Erfinder des Altruversums. Er ist der kreative Geist und das technische Hirn hinter der Plattform. Stephan hat in Heidelberg Physik studiert. Nach dem Studium hat er zuerst als Backend-Entwickler bei SAP gearbeitet, sich nach zwei Jahren aber dafür entschieden, am CERN zu promovieren. Mittlerweile steht er fast am Ende seiner Promotion und ist fest entschlossen mit dem Altruversum, eine bessere Parallelwelt zu schaffen.
+Stephan ist der Gründer und Erfinder des Altruversums. Er ist der kreative Geist und das technische Hirn hinter der Plattform. Stephan hat in Heidelberg Physik studiert. Nach dem Studium hat er zuerst als Backend-Entwickler bei SAP gearbeitet, sich nach zwei Jahren aber dafür entschieden, am CERN zu promovieren. Mittlerweile steht er fast am Ende seiner Promotion und ist fest entschlossen, mit dem Altruversum eine bessere Parallelwelt zu schaffen.
 
 *Stephans Lebensmotto: "Life is like windsurfing: No matter from where and how strong the wind blows, you can use it."*
 
