@@ -32,4 +32,5 @@ Stephan is the founder and inventor of the *Altruversum*. He is the creative min
 *Stephan's motto in life: "Life is like windsurfing: No matter from where and how strong the wind blows, you can use it."*
 
 I am Katharina, the creative leisure and the head of altruedu. I'm actually a teacher of physics, German and astronomy. Through my profession, I have many insights into the current educational landscape and know first-hand the challenges and concerns of students in 2024. I also work as a guest author at *Spektrum der Wissenschaft* and as a team leader at *ScienceAcademy BW*.
+
 *Katharina's motto in life: Don't judge!...and no more subjunctives.*
